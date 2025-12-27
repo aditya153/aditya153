@@ -84,13 +84,13 @@ I am a passionate developer currently pursuing a **Master of Science in Informat
 
 ### 🛠️ Key Projects
 
-#### 🤖 **Automation in Public Administration** (Student Project)
+#### 🤖 **Automation in German Public Administration** (Insider Technologies)
 *Sep 2025 - Present*
 * **Stack:** React.js, MCP, CREW AI, Docker, GitLab, REST APIs, PostgreSQL.
-* Designing an AI-driven workflow automation MVP with **7 specialized agents** to reduce manual processing in German public administration.
+* Designing an AI-driven workflow automation MVP with **7 specialized agents** **and Tool as MCP(Model Context Protocol)** to reduce manual processing in German public administration.
 * Implemented automated email communication and rule-based validation.
 
-#### 📚 **Multi-Agent Literature Review System**
+#### 📚 **Multi-Agent Literature Review System** (Student Project)
 *Nov 2024 - Feb 2025*
 * **Stack:** Microsoft Autogen, Dify.ai, Python, LLMs.
 * Developed a Multi-Agent System to automatically generate 500+ word literature reviews from research papers.
