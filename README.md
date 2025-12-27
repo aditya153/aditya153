@@ -1,95 +1,60 @@
 <div align="center">
 
-# Hi there, I'm Aditya Uday Nirgude! 👋
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=35C7F2&center=true&vCenter=true&width=435&lines=Hi+there,+I'm+Aditya+Nirgude!+%F0%9F%91%8B;Master's+Student+@+RPTU;Backend+%26+Agentic+AI+Developer" alt="Typing SVG" />
 
-### Master's Student in Informatics | Software Developer | AI Enthusiast
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/aditya-nirgude)
-[![Portfolio](https://img.shields.io/badge/Website-Portfolio-green?style=for-the-badge&logo=google-chrome)](http://Portfolio.com)
-[![Email](https://img.shields.io/badge/Email-Contact_Me-red?style=for-the-badge&logo=gmail)](mailto:adityanirgude22@gmail.com)
+<p>
+  <a href="https://www.linkedin.com/in/aditya-nirgude">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:adityanirgude22@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="http://Portfolio.com">
+    <img src="https://img.shields.io/badge/Portfolio-Visit_Site-2ea44f?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  </a>
+</p>
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+### 👨‍💻 About Me
 
-[cite_start]I am a passionate developer currently pursuing a **Master of Science in Informatics** at the **Rheinland-Pfälzische Technische Universität Kaiserslautern** [cite: 10][cite_start], focusing on **Software Engineering and Intelligent Systems**[cite: 11]. [cite_start]Based in **Kaiserslautern, Germany**[cite: 4], I bridge the gap between robust backend systems and cutting-edge Agentic AI.
+I am a **Master's Student in Informatics** at **RPTU Kaiserslautern**, specializing in **Software Engineering and Intelligent Systems**. I have a strong background in building robust backend microservices and am currently diving deep into **Agentic AI** workflows.
 
-* [cite_start]🔭 **I’m currently working on:** Multi-Agent Systems and Workflow Automation for Public Administration[cite: 36, 39].
-* [cite_start]💼 **Previous Experience:** Backend development (Django/Python) and IoT Data Synchronization at **Two Registers**[cite: 15, 18, 19].
-* [cite_start]🌱 **I’m currently learning:** Advanced Agentic AI concepts (MCP, CrewAI, Autogen)[cite: 48].
-* 💬 **Ask me about:** Python, React.js, Microservices, and Machine Learning.
-* [cite_start]🗣️ **Languages:** English (Fluent), German (Good), Marathi (Native)[cite: 54, 55, 56].
-
----
-
-## 🚀 Tech Stack
-
-[cite_start]Here are the technologies and tools I work with[cite: 47, 48, 49]:
-
-### Languages & Frameworks
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
-
-### Databases & Cloud
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-
-### Data & AI Tools
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/scikit_learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+* 🔭 **Currently working on:** Multi-Agent Systems & Workflow Automation for Public Administration.
+* 🌱 **Learning:** Advanced Agentic AI (MCP, CrewAI, Autogen) & LLM integration.
+* 💼 **Experience:** Former Backend Developer at **Two Registers** (Django/IoT).
+* 📍 **Location:** Kaiserslautern, Germany.
 
 ---
 
-## 🛠️ Key Projects
-
-### 🤖 Automation in Public Administration
-*Sep 2025 - Present*
-* [cite_start]**Tech:** React.js, MCP, CREW AI, Docker, PostgreSQL[cite: 34].
-* [cite_start]Designed an AI-driven workflow automation MVP with **7 specialized agents** to reduce manual processing in German public administration[cite: 36, 37].
-* [cite_start]Implemented automated email communication and rule-based validation[cite: 37].
-
-### 📚 Multi-Agent System for Literature Reviews
-*Nov 2024 - Feb 2025*
-* [cite_start]**Tech:** Microsoft Autogen, Dify.ai, Python[cite: 39].
-* [cite_start]Developed a system to automatically generate 500+ word literature reviews based on provided research papers[cite: 41].
-* [cite_start]Utilized **Agentic AI** for content analysis and iterative text improvement[cite: 42].
-* [cite_start][View Repository](https://github.com/aditya153/Literature-review-agent).
-
----
-
-## 💼 Work Experience
-
-| Role | Company | Timeline |
-| :--- | :--- | :--- |
-| **Software Developer** | Two Registers (India) | [cite_start]*Dec 2022 - Feb 2024* [cite: 16] |
-| **Machine Learning Intern** | Quant Masters (India) | [cite_start]*Aug 2022 - Nov 2022* [cite: 27] |
-
-* [cite_start]**At Two Registers:** Optimized SQL queries reducing latency from 500ms to <200ms and built modular backend services[cite: 20, 23].
-* [cite_start]**At Quant Masters:** Reduced data preprocessing time by 35% using ETL pipelines and improved fraud detection accuracy by 20%[cite: 28, 30].
-
----
-
-## 🎓 Education
-
-* **M.Sc. in Informatics** | [cite_start]RPTU Kaiserslautern, Germany (Expected April 2027) [cite: 10]
-* **B.E. in Information Technology** | [cite_start]Sinhgad Academy of Engineering, India (2018 - 2022) [cite: 12]
-
----
-
-## 📈 GitHub Stats
+### 🚀 Tech Stack
 
 <div align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,react,django,nodejs,postgres,docker,aws,tensorflow,git,grafana,mongodb,pycharm&theme=dark&perline=6" />
+  </a>
+</div>
 
-<img src="https://github-readme-stats.vercel.app/api?username=aditya153&show_icons=true&theme=radical" alt="Aditya's GitHub Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aditya153&layout=compact&theme=radical" alt="Top Languages" />
+---
 
+### 🛠️ Key Projects
+
+#### 🤖 **Automation in Public Administration**
+*Tech: React.js, MCP, CREW AI, Docker, PostgreSQL*
+> Designing an AI-driven workflow automation MVP with **7 specialized agents** to reduce manual processing in German public administration, featuring automated email communication and rule-based validation.
+
+#### 📚 **Literature Review Agent**
+*Tech: Microsoft Autogen, Dify.ai, Python*
+> A Multi-Agent System that automatically generates 500+ word literature reviews from research papers. It uses Agentic AI for content analysis and iterative text improvement.
+> [**View Repository**](https://github.com/aditya153/Literature-review-agent)
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=aditya153&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Aditya's Stats" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aditya153&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Top Languages" height="180"/>
 </div>
