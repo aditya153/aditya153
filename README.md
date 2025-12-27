@@ -6,7 +6,7 @@
 <img src="https://komarev.com/ghpvc/?username=aditya153&label=Profile%20Views&color=0e75b6&style=flat" alt="aditya153" />
 
 <p>
-  <a href="https://www.linkedin.com/in/aditya-nirgude">
+  <a href="https://www.linkedin.com/in/aditya-nirgude-24170b173/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:adityanirgude22@gmail.com">
