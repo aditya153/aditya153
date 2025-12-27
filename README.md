@@ -1,6 +1,9 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=35C7F2&center=true&vCenter=true&width=435&lines=Hi+there,+I'm+Aditya+Nirgude!+%F0%9F%91%8B;Master's+Student+@+RPTU;Software+Developer;Agentic+AI+Enthusiast" alt="Typing SVG" />
+<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=35C7F2&center=true&vCenter=true&width=435&lines=Hi+there,+I'm+Aditya+Nirgude!;Master's+Student+@+RPTU;Software+Developer;Agentic+AI+Enthusiast" alt="Typing SVG" />
+
+<img src="https://komarev.com/ghpvc/?username=aditya153&label=Profile%20Views&color=0e75b6&style=flat" alt="aditya153" />
 
 <p>
   <a href="https://www.linkedin.com/in/aditya-nirgude">
@@ -9,7 +12,7 @@
   <a href="mailto:adityanirgude22@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="http://Portfolio.com">
+  <a href="https://adityanirgudeportfolio.com">
     <img src="https://img.shields.io/badge/Portfolio-Visit_Site-2ea44f?style=for-the-badge&logo=google-chrome&logoColor=white" />
   </a>
 </p>
@@ -34,14 +37,14 @@ I am a passionate developer currently pursuing a **Master of Science in Informat
 #### Languages & Frameworks
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,react,nodejs,django,javascript,html,css&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=python,react,nodejs,django,js,html,css&theme=dark" />
   </a>
 </div>
 
 #### Data Science & AI
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,scikitlearn,pandas,numpy,anaconda&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,pandas,numpy,anaconda&theme=dark" />
   </a>
   <br/>
   <img src="https://img.shields.io/badge/Agentic_AI-CrewAI_%7C_Autogen-blueviolet?style=flat-square" />
@@ -85,32 +88,24 @@ I am a passionate developer currently pursuing a **Master of Science in Informat
 *Sep 2025 - Present*
 * **Stack:** React.js, MCP, CREW AI, Docker, GitLab, REST APIs, PostgreSQL.
 * Designing an AI-driven workflow automation MVP with **7 specialized agents** to reduce manual processing in German public administration.
-* Implemented automated email communication and rule-based validation for end-to-end workflow automation.
+* Implemented automated email communication and rule-based validation.
 
 #### 📚 **Multi-Agent Literature Review System**
 *Nov 2024 - Feb 2025*
 * **Stack:** Microsoft Autogen, Dify.ai, Python, LLMs.
 * Developed a Multi-Agent System to automatically generate 500+ word literature reviews from research papers.
-* utilized Agentic AI for content analysis and implemented a feedback mechanism for iterative text quality improvement.
+* Utilized Agentic AI for content analysis and implemented a feedback mechanism.
 * [**View Repository**](https://github.com/aditya153/Literature-review-agent)
-
----
-
-### 📜 Publications
-* **Software as a Service for Attack Detection using QR Codes** - International Research Journal of Engineering and Technology (IRJET). [Read Paper](https://ijarsct.co.in/Paper4041.pdf)
-
----
-
-### 🎓 Education
-
-* **M.Sc. in Informatics** | RPTU Kaiserslautern, Germany *(Expected April 2027)*
-* **B.E. in Information Technology** | Sinhgad Academy of Engineering, India *(2018 - 2022)*
 
 ---
 
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aditya153&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Aditya's Stats" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aditya153&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Top Languages" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=aditya153&show_icons=true&theme=radical&hide_border=true" alt="Aditya's Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aditya153&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+  
+  <br/>
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aditya153&theme=radical&hide_border=true" alt="GitHub Streak" />
 </div>
