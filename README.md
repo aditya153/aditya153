@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=35C7F2&center=true&vCenter=true&width=435&lines=Hi+there,+I'm+Aditya+Nirgude!+%F0%9F%91%8B;Master's+Student+@+RPTU;Backend+%26+Agentic+AI+Developer" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=35C7F2&center=true&vCenter=true&width=435&lines=Hi+there,+I'm+Aditya+Nirgude!+%F0%9F%91%8B;Master's+Student+@+RPTU;Software+Developer;Agentic+AI+Enthusiast" alt="Typing SVG" />
 
 <p>
   <a href="https://www.linkedin.com/in/aditya-nirgude">
@@ -20,35 +20,91 @@
 
 ### 👨‍💻 About Me
 
-I am a **Master's Student in Informatics** at **RPTU Kaiserslautern**, specializing in **Software Engineering and Intelligent Systems**. I have a strong background in building robust backend microservices and am currently diving deep into **Agentic AI** workflows.
+I am a passionate developer currently pursuing a **Master of Science in Informatics** at **Rheinland-Pfälzische Technische Universität Kaiserslautern**, focusing on **Software Engineering and Intelligent Systems**. I specialize in building scalable backend architectures and implementing cutting-edge **Agentic AI** workflows.
 
 * 🔭 **Currently working on:** Multi-Agent Systems & Workflow Automation for Public Administration.
-* 🌱 **Learning:** Advanced Agentic AI (MCP, CrewAI, Autogen) & LLM integration.
-* 💼 **Experience:** Former Backend Developer at **Two Registers** (Django/IoT).
-* 📍 **Location:** Kaiserslautern, Germany.
+* 🌱 **Deep diving into:** Advanced Agentic AI (MCP, CrewAI, Autogen, Langchain) & LLMs.
+* 💡 **Key Achievement:** Reduced data processing latency by **60%** (500ms to 200ms) in previous roles.
+* 🗣️ **Languages:** English (Fluent), German (Good), Marathi (Native).
 
 ---
 
-### 🚀 Tech Stack
+### 🚀 Tech Stack & Skills
 
+#### Languages & Frameworks
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,react,django,nodejs,postgres,docker,aws,tensorflow,git,grafana,mongodb,pycharm&theme=dark&perline=6" />
+    <img src="https://skillicons.dev/icons?i=python,react,nodejs,django,javascript,html,css&theme=dark" />
   </a>
 </div>
+
+#### Data Science & AI
+<div align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,scikitlearn,pandas,numpy,anaconda&theme=dark" />
+  </a>
+  <br/>
+  <img src="https://img.shields.io/badge/Agentic_AI-CrewAI_%7C_Autogen-blueviolet?style=flat-square" />
+  <img src="https://img.shields.io/badge/LLMs-LangChain_%7C_Prompt_Eng-blueviolet?style=flat-square" />
+  <img src="https://img.shields.io/badge/Visualization-Power_BI_%7C_Matplotlib-F2C811?style=flat-square" />
+</div>
+
+#### Databases, Cloud & DevOps
+<div align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,aws,docker,git,gitlab,grafana,linux&theme=dark" />
+  </a>
+  <br/>
+  <img src="https://img.shields.io/badge/Architecture-Microservices_%7C_REST_APIs-blue?style=flat-square" />
+  <img src="https://img.shields.io/badge/Data-ETL_%7C_Data_Modeling-blue?style=flat-square" />
+  <img src="https://img.shields.io/badge/Tools-Jupyter_%7C_PyCharm_%7C_Databricks-lightgrey?style=flat-square" />
+</div>
+
+---
+
+### 💼 Work Experience
+
+#### **Software Developer** | Two Registers, India
+*Dec 2022 - Feb 2024*
+* **Backend Mastery:** Programmed backend systems with **Python (Django)** to handle growing user bases and ensured synchronization between IoT devices and UI.
+* **Performance Optimization:** Optimized SQL database queries, reducing data storage latency from **500ms to under 200ms**.
+* **Microservices:** Built modular backend services using Microservice Architecture for scalability in cross-functional teams.
+* **Automation:** Developed Parser and ETL scripts to process live data, saving **40% of manual data cleaning time**.
+
+#### **Machine Learning Intern** | Quant Masters, India
+*Aug 2022 - Nov 2022*
+* **Fraud Detection:** Developed Anomaly Detection models using **SVM (Support Vector Machines)** and TensorFlow, increasing fraud detection accuracy by **20%**.
+* **Data Pipelines:** Implemented ETL pipelines for large datasets using Pandas, reducing preprocessing time by **35%**.
+* **Visualization:** Created interactive **Power BI** dashboards with DAX and Power Query to present complex model results to stakeholders.
 
 ---
 
 ### 🛠️ Key Projects
 
-#### 🤖 **Automation in Public Administration**
-*Tech: React.js, MCP, CREW AI, Docker, PostgreSQL*
-> Designing an AI-driven workflow automation MVP with **7 specialized agents** to reduce manual processing in German public administration, featuring automated email communication and rule-based validation.
+#### 🤖 **Automation in Public Administration** (Student Project)
+*Sep 2025 - Present*
+* **Stack:** React.js, MCP, CREW AI, Docker, GitLab, REST APIs, PostgreSQL.
+* Designing an AI-driven workflow automation MVP with **7 specialized agents** to reduce manual processing in German public administration.
+* Implemented automated email communication and rule-based validation for end-to-end workflow automation.
 
-#### 📚 **Literature Review Agent**
-*Tech: Microsoft Autogen, Dify.ai, Python*
-> A Multi-Agent System that automatically generates 500+ word literature reviews from research papers. It uses Agentic AI for content analysis and iterative text improvement.
-> [**View Repository**](https://github.com/aditya153/Literature-review-agent)
+#### 📚 **Multi-Agent Literature Review System**
+*Nov 2024 - Feb 2025*
+* **Stack:** Microsoft Autogen, Dify.ai, Python, LLMs.
+* Developed a Multi-Agent System to automatically generate 500+ word literature reviews from research papers.
+* utilized Agentic AI for content analysis and implemented a feedback mechanism for iterative text quality improvement.
+* [**View Repository**](https://github.com/aditya153/Literature-review-agent)
+
+---
+
+### 📜 Publications
+* **Software as a Service for Attack Detection using QR Codes** - International Research Journal of Engineering and Technology (IRJET). [Read Paper](https://ijarsct.co.in/Paper4041.pdf)
+
+---
+
+### 🎓 Education
+
+* **M.Sc. in Informatics** | RPTU Kaiserslautern, Germany *(Expected April 2027)*
+* **B.E. in Information Technology** | Sinhgad Academy of Engineering, India *(2018 - 2022)*
 
 ---
 
