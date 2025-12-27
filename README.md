@@ -104,6 +104,7 @@ I am a passionate developer currently pursuing a **Master of Science in Informat
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=aditya153&show_icons=true&theme=radical&hide_border=true" alt="Aditya's Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aditya153&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+  <img src="https://github.com/aditya153/aditya153/blob/output/github-contribution-grid-snake-dark.svg" />
   
   <br/>
   
